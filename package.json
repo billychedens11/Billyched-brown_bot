@@ -1,0 +1,17 @@
+{
+  "name": "billyched-brown-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Powered by Twilio, ak meni entelijan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Billytech",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "twilio": "^4.15.0"
+  }
+}
